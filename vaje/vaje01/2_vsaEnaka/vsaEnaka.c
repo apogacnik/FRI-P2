@@ -14,7 +14,6 @@
 #include <stdio.h>
 
 int main() {
-
   int n = getchar() - '0';
   getchar();
 

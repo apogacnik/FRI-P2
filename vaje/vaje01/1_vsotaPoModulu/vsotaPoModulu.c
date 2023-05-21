@@ -14,7 +14,6 @@
 #include <stdio.h>
 
 int main() {
-
   int a = getchar() - '0';
   getchar();
   int b = getchar() - '0';
